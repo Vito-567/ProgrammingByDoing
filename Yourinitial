@@ -1,0 +1,10 @@
+class Yourinitial{
+public static void main(String[] args) {
+System.out.println( "V       V   W      W" );
+System.out.println( "V       V   W      W" );
+System.out.println( "V       V   W      W" );
+System.out.println( "V       V   W   W  W" );
+System.out.println( "V       V   W W  W W" );
+System.out.println( "  V   V     W W  W W" );
+System.out.println( "    V       W      W" );
+}
