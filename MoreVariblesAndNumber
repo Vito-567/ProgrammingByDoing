@@ -6,9 +6,9 @@ public class MoreVariablesAndPrinting
         int myAge, myHeight, myWeight;
 
         myName = "Zed A. Shaw";
-        myAge = 35;     // not a lie
-        myHeight = 74;  // inches
-        myWeight = 180; // lbs
+        myAge = 15;     // not a lie
+        myHeight = 68;  // inches
+        myWeight = 143; // lbs
         myEyes = "Blue";
         myTeeth = "White";
         myHair = "Brown";
