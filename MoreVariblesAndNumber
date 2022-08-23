@@ -7,11 +7,11 @@ public class MoreVariablesAndPrinting
 
         myName = "Zed A. Shaw";
         myAge = 15;     // not a lie
-        myHeight = 68;  // inches
-        myWeight = 143; // lbs
-        myEyes = "Blue";
+        myHeight = 143;  // inches
+        myWeight = 68; // lbs
+        myEyes = "Black";
         myTeeth = "White";
-        myHair = "Brown";
+        myHair = "Black";
 
         System.out.println( "Let's talk about " + myName + "." );
         System.out.println( "He's " + myHeight + " inches tall." );
