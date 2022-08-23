@@ -1,0 +1,37 @@
+Microsoft Windows XP [Version 5.1.2600]
+(C) Copyright 1985-2001 Microsoft Corp.
+
+C:\>u:
+
+U:\>cd My Documents
+
+U:\My Documents>cd CompSci
+
+U:\My Documents\CompSci>dir *.java
+
+ Volume in drive U is DATA01
+ Volume Serial Number is E012-345E
+
+ Directory of U:\My Documents\CompSci\
+
+08/31/2011  12:40a               1,450 SineWave.java
+               1 File(s)          1,450 bytes
+               0 Dir(s)  53,887,197,184 bytes free
+
+U:\My Documents\CompSci>javac SineWave.java
+
+U:\My Documents\CompSci>dir SineWave.*
+
+ Volume in drive U is DATA01
+ Volume Serial Number is E012-345E
+
+ Directory of U:\My Documents\CompSci\
+
+08/31/2011  12:45a                 416 SineWave.class
+08/31/2011  12:40a               1,450 SineWave.java
+               2 File(s)          1,866 bytes
+               0 Dir(s)  53,887,183,031 bytes free
+
+U:\My Documents\CompSci>java SineWave
+
+U:\My Documents\CompSci> 
