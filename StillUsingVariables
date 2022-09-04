@@ -1,4 +1,4 @@
-public class stillUsingVariablesss 
+public class stillUsingVariables 
     
 {
     public static void main( String[] args )
@@ -7,7 +7,7 @@ public class stillUsingVariablesss
         int grad;
 
         grad = 2025;
-        Name = "Ashley Lin";
+        Name = "Vito Wu";
     
         System.out.println( "My name is " + Name + " and I'll graduate in " + grad + "." );
       
